@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/30487ddb-bb5b-4e3e-a130-b305ebf0afcd)
+
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/22f48123-3866-4e08-b17e-d7dd96277564)
 
-### Name:
-### Register Number:
+#### Name:  ANU RADHA N
+#### Register Number:  212223230018
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
